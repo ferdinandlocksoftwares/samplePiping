@@ -1,0 +1,18 @@
+# Build and Release Folders
+
+*.htaccess
+application/config/database.php
+application/config/config.php
+application/config/constants.php
+application/logs/*
+.idea
+.idea/*
+*.project
+application/logs/
+400.shtml
+401.shtml
+403.shtml
+404.shtml
+error_log
+php.ini
+emails/*
