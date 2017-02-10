@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+//my comment sample
 date_default_timezone_set('UTC');
 
 class Main extends CI_Controller {
